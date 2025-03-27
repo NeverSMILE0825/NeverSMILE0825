@@ -1,9 +1,9 @@
 # Hi 👋
 
-### - 👋 I'm an innovative and passionate `Python` developer.
-### - 👀 I’m interested in `Machine Learning` and `Deep Learning`.
-### - 🌱 I’m currently learning `Llama2`.
-### - 💞️ I’m looking to collaborate on `Innovative Deep Learning Team`.
+### - 👋 I'm an innovative and passionate Fullstack developer.
+### - 👀 I’m interested in MERN stack and LAMP stack.
+### - 🌱 I’m currently learning modern JS frameworks.
+### - 💞️ I’m looking to collaborate on `Innovative Web Development Team`.
 
 ❤ _Beautiful is better than ugly._
 <br>❤ _Explicit is better than implicit._
@@ -27,6 +27,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" tootip="python" width="48" height="48" alt="Python" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
@@ -70,7 +72,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
@@ -90,13 +92,13 @@
 
 # 📊 GitHub Stats:
 <p  align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawn0123&layout=compact&theme=radical&hide_border=true" alt="Star's Top Languages" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeverSMILE0825&layout=compact&theme=radical&hide_border=true" alt="Star's Top Languages" width="50%" />
 </p>
 <p  align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dawn0123&show_icons=true&locale=en" alt="dawn0123" width="50%"  />
+<img src="https://github-readme-stats.vercel.app/api?username=NeverSMILE0825&show_icons=true&locale=en" alt="NeverSMILE0825" width="50%"  />
 </p>
 <p  align="center">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dawn0123&" alt="dawn0123" width="50%"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NeverSMILE0825&" alt="NeverSMILE0825" width="50%"  />
 </p>
 
 # 🏆 GitHub Trophies
@@ -104,6 +106,6 @@
 
 
 <!---
-dawn0123/dawn0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NeverSMILE0825/NeverSMILE0825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
