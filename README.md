@@ -2,7 +2,6 @@
 
 ### - 👋 I'm an innovative and passionate Fullstack developer.
 ### - 👀 I’m interested in MERN stack and LAMP stack.
-### - 🌱 I’m currently learning modern JS frameworks.
 ### - 💞️ I’m looking to collaborate on `Innovative Web Development Team`.
 
 ❤ _Beautiful is better than ugly._
