@@ -1,8 +1,6 @@
 # Hi 👋
 
-### - 👋 I'm an innovative and passionate Fullstack developer.
-### - 👀 I’m interested in MERN stack and LAMP stack.
-### - 💞️ I’m looking to collaborate on `Innovative Web Development Team`.
+### - 👋 I'm an innovative and passionate Meme coin dev.
 
 ❤ _Beautiful is better than ugly._
 <br>❤ _Explicit is better than implicit._
